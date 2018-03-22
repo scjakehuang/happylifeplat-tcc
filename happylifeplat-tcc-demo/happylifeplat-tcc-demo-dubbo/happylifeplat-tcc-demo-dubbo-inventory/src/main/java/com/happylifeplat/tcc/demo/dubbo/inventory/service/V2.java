@@ -8,5 +8,5 @@ package com.happylifeplat.tcc.demo.dubbo.inventory.service;
  * @author huangjk
  * @version 1.0 2018/3/22
  */
-public class V1 {
+public class V2 {
 }
