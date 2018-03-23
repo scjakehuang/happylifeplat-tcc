@@ -9,5 +9,8 @@ package com.happylifeplat.tcc.demo.dubbo.inventory.service;
  * @version 1.0 2018/3/23
  */
 public class V1_TEST {
-    private static int a = 1;
+    private static int a = 1111;
+    private static int get(){
+        return  a;
+    }
 }
