@@ -2,7 +2,7 @@ package com.happylifeplat.tcc.demo.dubbo.inventory.service;
 
 /**
  * Description:
- * Copyright: Copyright (c) 2012 1111
+ * Copyright: Copyright (c) 2012 v1
  * Company: keruyun Technology(Beijing) Chengdu Co. Ltd.
  *
  * @author huangjk
